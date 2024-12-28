@@ -1,0 +1,1 @@
+This error occurs when you are using a library that uses the `Dimensions` API from React Native, but haven't installed it properly or it is not correctly linked to your project.  The error message is not very helpful, typically just a generic `undefined is not an object` error, sometimes in conjunction with an error relating to `Dimensions.get('window')` failing.
